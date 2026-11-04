@@ -1,0 +1,21 @@
+# Dataset (download separately; includes dogs.csv)
+data/
+
+# Pretrained MobileNetV2 weights (download separately)
+weights/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
