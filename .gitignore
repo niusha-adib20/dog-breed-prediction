@@ -4,6 +4,9 @@ data/
 # Pretrained MobileNetV2 weights (download separately)
 weights/
 
+# Additional project images
+image/
+
 # Python cache
 __pycache__/
 *.py[cod]
